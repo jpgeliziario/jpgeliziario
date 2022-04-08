@@ -2,7 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jpgeliziario)](https://github.com/jpgeliziario)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/joaopedrogarciaeliziario)](www.linkedin.com/in/joaopedrogarciaeliziario)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<jpgeliziario@gmail.com>"](jpgeliziario@gmail.com)
+[![Gmail Badge](<a href = "mailto:jpgeliziario@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>]
 
 
 ### About me
