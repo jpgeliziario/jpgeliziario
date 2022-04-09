@@ -11,8 +11,5 @@
 ### About me
 I'm a Control and Automation Engineer and Data Science Student, I'm looking for an job opportunity in this area.
 
-<div>
-<a href="https://github.com/jpgeliziario">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpgeliziario&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpgeliziario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
+![Snake animation](https://github.com/jpgeliziario/blob/output/github-contribution-grid-snake.svg)
