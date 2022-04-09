@@ -12,4 +12,4 @@
 I'm a Control and Automation Engineer and Data Science Student, I'm looking for an job opportunity in this area.
 
 
-![Snake animation](https://github.com/jpgeliziario/blob/output/github-contribution-grid-snake.svg)
+
