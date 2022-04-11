@@ -9,7 +9,7 @@
 
 
 ### About me
-I'm a Control and Automation Engineer and Data Science Student, I'm looking for an job opportunity in this area.
+I'm a Control and Automation Engineer and Data Science Student, I'm looking for a job opportunity in this area.
 
 
 
