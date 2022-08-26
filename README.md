@@ -1,4 +1,18 @@
-## Hi, I'm João Pedro! 
+## Olá, Eu sou o João Pedro! 
+Sempre gostei da área de tecnologia, então cursei Engenharia de Controle e Automação.
+
+Porém, ainda durante minha graduação, conheci a área de dados, na qual me apaixonei.
+
+Acho incrível o quão os dados são importantes no mundo atual, geram valor e "são o novo petróleo", como disse o matemático Clive Humby.
+
+Por isso, fiz uma formação Imersiva em dados na Escola DNC, na qual tive o prazer de participar de um projeto do começo ao fim de Data Science.
+
+Nesse projeto, desenvolvi habilidades como Python, SQL, Análise de dados, Visualização de dados, Limpeza de dados, Estatística, Machine Learning, Implantação de modelos, Scrum, entre outros. Além disso, possuo conhecimento em Power BI, MS Office, etc. 
+
+Agora, busco uma oportunidade para desenvolver minha carreira dentro de uma empresa, na qual eu possa gerar valor para ela, para que, em um futuro, eu possa ser referência e passar minhas experiências para as pessoas que estão iniciando na área, como eu estou hoje.
+
+Abraços,
+João Pedro
 
 ### Contatos
 <div>
@@ -8,8 +22,6 @@
 </div>
 
 
-### About me
-I'm a Control and Automation Engineer and Data Science Student, I'm looking for a job opportunity in this area.
 
 
 
